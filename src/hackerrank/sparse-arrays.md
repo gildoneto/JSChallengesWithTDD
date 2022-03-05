@@ -4,7 +4,7 @@ Existe uma coleção de inputs do tipo string e uma coleção de strings de busc
 
 ### Exemplo
 
-```
+```javascript
 strings = ['ab', 'ab', 'abc']
 queries = ['ab', 'abc', 'bc']
 ```
