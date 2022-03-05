@@ -1,4 +1,4 @@
-function matchingStrings(strings, queries) {
+export default function matchingStrings(strings, queries) {
 
   let result = []
   let contador = 0
@@ -25,4 +25,3 @@ function matchingStrings(strings, queries) {
 // let queries2 = ['abcde', 'sdaklfj', 'asdjf', 'na', 'basdn']
 // matchingStrings(strings2,queries2)
 
-module.exports = matchingStrings;

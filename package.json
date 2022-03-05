@@ -1,0 +1,21 @@
+{
+  "name": "jschallengeswithtdd",
+  "version": "1.0.0",
+  "description": "Este projeto tem a finalidade de dividir com a comunidade a resolucao de desafios de diversos sites",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gildoneto/JSChallengesWithTDD.git"
+  },
+  "keywords": [],
+  "author": "Gildo Neto",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gildoneto/JSChallengesWithTDD/issues"
+  },
+  "homepage": "https://github.com/gildoneto/JSChallengesWithTDD#readme"
+}
