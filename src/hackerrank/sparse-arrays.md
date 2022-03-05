@@ -4,6 +4,8 @@ Existe uma coleção de inputs do tipo string e uma coleção de strings de busc
 
 ### Exemplo
 
-ˋstrings = ['ab', 'ab', 'abc']ˋ
-ˋqueries = ['ab', 'abc', 'bc']ˋ
+```
+strings = ['ab', 'ab', 'abc']
+queries = ['ab', 'abc', 'bc']
+```
 
